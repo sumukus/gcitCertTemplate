@@ -7,3 +7,7 @@ git clone git@github.com:sumukus/gcitCertTemplate.git gcitCert
 cd gcitCert
 npm i
 ```
+Then start the app using the following command
+```
+npx expo start
+```
